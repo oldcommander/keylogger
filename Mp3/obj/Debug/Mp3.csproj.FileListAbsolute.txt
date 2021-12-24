@@ -1,0 +1,17 @@
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\Mp3.exe.config
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\Mp3.exe
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\Mp3.pdb
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.Form1.resources
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.Properties.Resources.resources
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.GenerateResource.cache
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.CoreCompileInputs.cache
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.exe
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.pdb
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\Guna.UI.dll
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.CopyComplete
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\taglib-sharp.dll
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\tr\source\repos\Mp3\Mp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tr\source\repos\Mp3\Mp3\obj\Debug\Mp3.csproj.ResolveComReference.cache

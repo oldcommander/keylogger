@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mp3", "Mp3\Mp3.csproj", "{845B730E-17C5-42BC-B73F-5E996DAFD023}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B11E852C-B0F2-4B0D-B5D8-2C5CEE5E60B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845B730E-17C5-42BC-B73F-5E996DAFD023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845B730E-17C5-42BC-B73F-5E996DAFD023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845B730E-17C5-42BC-B73F-5E996DAFD023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845B730E-17C5-42BC-B73F-5E996DAFD023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11E852C-B0F2-4B0D-B5D8-2C5CEE5E60B2}.Debug|Any CPU.ActiveCfg = Debug
+		{B11E852C-B0F2-4B0D-B5D8-2C5CEE5E60B2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {419EACF5-FB53-4B59-A7BF-767DC3574BFC}
+	EndGlobalSection
+EndGlobal
